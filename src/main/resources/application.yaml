@@ -1,0 +1,8 @@
+camunda:
+  client:
+    mode: saas
+    auth:
+      client-id: gMVS3RIcDByvRZQAq9SAVG.TPSN2Z.xH
+      client-secret: 5YStz7R99gYqn9iJh1qMGB03ywxGTyXP6ZWC1ppIZh_ieqkQzNj0CEEdTwSqup8T
+    cluster-id: 487e2664-45fe-4a21-9e53-860eddc37e5e
+    region: bru-2
